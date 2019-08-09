@@ -1,7 +1,5 @@
 # Learn_Machine_Learning_in_3_Months
 
-This is the Curriculum for "Learn Machine Learning in 3 Months" [this](https://youtu.be/Cr6VqTRO1v0) video by Siraj Raval on Youtube 
-
 # Month 1
 
 ## Week 1 Linear Algebra
@@ -46,8 +44,3 @@ http://course.fast.ai/
 Re-implement DL projects from my github
 https://github.com/llSourcell?tab=repositories
 
----
-
-*Additional Resources:*   
-- People in ML to [follow on Twitter](https://www.quora.com/Who-should-I-follow-on-Twitter-to-get-useful-and-reliable-machine-learning-information "Quora.com")
-- Join the ["Wizards" Slack channel](http://wizards.herokuapp.com/ "Herokuapp.com")
